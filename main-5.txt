@@ -1,1 +1,2 @@
-Something in the first line
+This is a new test message
+
