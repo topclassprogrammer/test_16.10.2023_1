@@ -1,0 +1,3 @@
+I wanna introduce my new feature
+The feature is called killer-feature
+Проверка русского текста
